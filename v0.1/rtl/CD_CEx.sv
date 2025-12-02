@@ -1,7 +1,7 @@
 module CD_CEx (
     input  logic        clk,
     input  logic        rst_n,
-    input   logic       clr,
+    input  logic        clr,
     input  logic        JumpD,
     input  logic        BranchPosD,
     input  logic        BranchNegD,

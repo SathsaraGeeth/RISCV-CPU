@@ -15,3 +15,4 @@
 6. Enable multicore support
 7. Extend to RV64I instructions
 8. More Extensions
+9. Out-of-order Design
