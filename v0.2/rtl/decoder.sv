@@ -15,8 +15,10 @@ logic [1:0] ALUOp;
 logic       Branch;
 logic       Jump;
 logic [6:0] Opcode;
+
 logic [14:12] Funct3;
 logic [31:25] Funct7;
+
 
 assign Opcode = Instr[6:0];
 

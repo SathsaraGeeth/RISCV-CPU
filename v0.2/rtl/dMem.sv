@@ -17,7 +17,7 @@ initial begin
 end
 
 assign RD = RAM[A[31:2]]; // word aligned
-    
+
 always_ff @(posedge clk)
     if (we) begin
         RAM[A[31:2]] <= WD;

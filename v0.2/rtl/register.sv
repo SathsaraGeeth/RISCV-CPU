@@ -1,3 +1,5 @@
+`timescale 1ns/1ps
+
 module register #(parameter WIDTH = 32) (
     input  logic              clk,
     input  logic              rst_n,
