@@ -1,6 +1,0 @@
-<testsuites name="results">
-  <testsuite name="all" package="all">
-    <property name="random_seed" value="1764636087" />
-    <testcase name="test_dMem" classname="dMem" file="/Volumes/fileserver/Projects/cpu/v0.2/sim/dMem.py" lineno="25" time="0.003815889358520508" sim_time_ns="720.0" ratio_time="188684.7160262418" />
-  </testsuite>
-</testsuites>
